@@ -7,7 +7,7 @@ Some example benchmarks are provided. In order to run the executable with the be
 
 The constraints are given to the system as follows:
 
-<relation_identifier> <variables> <constants>
+\<relation_identifier\> \<variables\> \<constants\>
 
 The numbers corresponding to each relation are the following:
   
